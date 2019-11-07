@@ -1,2 +1,2 @@
-# TF2.0_Test
-TensorFlow2.0 Test Repo
+# TF2.0 Test Repo
+Mini-repo for testing TensorFlow2.0
